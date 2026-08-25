@@ -274,7 +274,7 @@
                 "last_commit": "2026-08-25T03:52:28Z",
                 "owner": "swiftlang",
                 "repo": "swift-evolution",
-                "stars": 15867
+                "stars": 15868
               }
             },
             {
@@ -286,7 +286,7 @@
                 "archived": false,
                 "id": 44838949,
                 "language": "Swift",
-                "last_commit": "2026-08-25T04:50:29Z",
+                "last_commit": "2026-08-25T05:34:23Z",
                 "owner": "swiftlang",
                 "repo": "swift",
                 "stars": 70282
@@ -599,7 +599,7 @@
                 "last_commit": "2026-08-25T01:20:49Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27392
+                "stars": 27391
               }
             },
             {
@@ -694,7 +694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:50:29.867Z",
+    "last_updated": "2026-08-25T06:24:41.220Z",
     "original_repository": "mikeroyal/Metal-Guide",
     "original_repository_id": 396950861,
     "original_repository_sha": "fe68f56da2b2dcad369dcb86244da8a439e94572",
