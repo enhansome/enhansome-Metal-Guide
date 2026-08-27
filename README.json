@@ -164,7 +164,7 @@
                 "last_commit": "2026-08-25T12:35:23Z",
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25336
+                "stars": 25338
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2025-05-09T03:36:03Z",
                 "owner": "cocos2d",
                 "repo": "cocos2d-x",
-                "stars": 19163
+                "stars": 19165
               }
             },
             {
@@ -191,10 +191,10 @@
                 "archived": false,
                 "id": 1579990,
                 "language": "C#",
-                "last_commit": "2026-08-26T01:42:25Z",
+                "last_commit": "2026-08-27T12:53:23Z",
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14352
+                "stars": 14355
               }
             }
           ],
@@ -286,7 +286,7 @@
                 "archived": false,
                 "id": 44838949,
                 "language": "Swift",
-                "last_commit": "2026-08-27T11:03:12Z",
+                "last_commit": "2026-08-27T14:51:58Z",
                 "owner": "swiftlang",
                 "repo": "swift",
                 "stars": 70300
@@ -308,7 +308,7 @@
                 "archived": false,
                 "id": 49910095,
                 "language": "Swift",
-                "last_commit": "2026-08-26T13:09:22Z",
+                "last_commit": "2026-08-27T15:10:04Z",
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26192
@@ -534,7 +534,7 @@
                 "last_commit": "2026-07-08T21:13:24Z",
                 "owner": "Hammerspoon",
                 "repo": "hammerspoon",
-                "stars": 16000
+                "stars": 16003
               }
             },
             {
@@ -577,7 +577,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45280
+                "stars": 45279
               }
             }
           ],
@@ -694,7 +694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:40.011Z",
+    "last_updated": "2026-08-27T15:11:36.033Z",
     "original_repository_info": {
       "archived": false,
       "id": 396950861,

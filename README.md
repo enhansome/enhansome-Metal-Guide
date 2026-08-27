@@ -289,11 +289,11 @@
 
 [NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
 
-[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,336 | 🐛 340 | 🌐 Java | 📅 2026-08-25 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
+[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,338 | 🐛 340 | 🌐 Java | 📅 2026-08-25 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
 
-[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,163 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
+[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,165 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
 
-[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,352 | 🐛 754 | 🌐 C# | 📅 2026-08-26 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
+[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,355 | 🐛 755 | 🌐 C# | 📅 2026-08-27 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
 
 [Three.js](https://threejs.org) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 
@@ -405,7 +405,7 @@ Developing with SwiftUI in Xcode 12
 
 [Amazon EC2 Mac Instances](https://aws.amazon.com/ec2/instance-types/mac/)
 
-[Swift GitHub](https://github.com/apple/swift) ⭐ 70,300 | 🐛 9,251 | 🌐 Swift | 📅 2026-08-27
+[Swift GitHub](https://github.com/apple/swift) ⭐ 70,300 | 🐛 9,252 | 🌐 Swift | 📅 2026-08-27
 
 [Apple Developer Forums](https://developer.apple.com/forums/)
 
@@ -443,7 +443,7 @@ Developing with SwiftUI in Xcode 12
 
 [AppCode](https://www.jetbrains.com/objc/) is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages.
 
-[Vapor](https://github.com/vapor/vapor) ⭐ 26,192 | 🐛 116 | 🌐 Swift | 📅 2026-08-26 is a web framework for Swift. It provides a beautifully expressive and easy to use foundation for your next website, API, or cloud project.
+[Vapor](https://github.com/vapor/vapor) ⭐ 26,192 | 🐛 117 | 🌐 Swift | 📅 2026-08-27 is a web framework for Swift. It provides a beautifully expressive and easy to use foundation for your next website, API, or cloud project.
 
 [Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,488 | 🐛 42 | 🌐 Swift | 📅 2025-01-23 is a library for building iOS view controller transitions. It provides a declarative layer on top of the UIKit's cumbersome transition APIs—making custom transitions an easy task for developers.
 
@@ -509,7 +509,7 @@ Developing with SwiftUI in Xcode 12
 
 [Aspects](https://github.com/steipete/Aspects) ⚠️ Archived is a simple library for aspect oriented programming in Objective-C and Swift.
 
-[Hammerspoon](https://github.com/Hammerspoon/hammerspoon) ⭐ 16,000 | 🐛 688 | 🌐 Objective-C | 📅 2026-07-08 is a tool for powerful automation for macOS that acts as a bridge between the operating system and a Lua scripting engine.
+[Hammerspoon](https://github.com/Hammerspoon/hammerspoon) ⭐ 16,003 | 🐛 688 | 🌐 Objective-C | 📅 2026-07-08 is a tool for powerful automation for macOS that acts as a bridge between the operating system and a Lua scripting engine.
 
 [Nimbus](https://github.com/jverkoey/nimbus) ⚠️ Archived is an iOS framework whose feature set grows only as fast as its documentation.
 
@@ -550,7 +550,7 @@ Developing with SwiftUI in Xcode 12
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,280 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,279 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -598,7 +598,7 @@ Developing with SwiftUI in Xcode 12
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,403 | 🐛 1,200 | 🌐 CMake | 📅 2026-08-26 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,403 | 🐛 1,201 | 🌐 CMake | 📅 2026-08-26 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
