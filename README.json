@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "Metal-Guide",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T16:35:10.424Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "Metal-Guide",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T16:35:10.424Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "Metal-Guide",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T16:35:10.424Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "Metal-Guide",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T16:35:10.424Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "Metal-Guide",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T16:35:10.424Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "Metal-Guide",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T16:35:10.424Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mikeroyal",
             "repo": "Metal-Guide",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T16:35:10.424Z"
         }
       ],
       "title": "A guide covering Metal including the applications, libraries and tools that will make you a better and more efficient Metal development."
@@ -127,7 +134,8 @@
             "owner": "apple",
             "repo": "tensorflow_macos",
             "stars": 3648
-          }
+          },
+          "first_seen": "2026-08-28T16:35:10.424Z"
         }
       ],
       "title": "Apple Silicon"
@@ -150,7 +158,8 @@
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
                 "stars": 6820
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -164,8 +173,9 @@
                 "last_commit": "2026-08-25T12:35:23Z",
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25338
-              }
+                "stars": 25342
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -179,8 +189,9 @@
                 "last_commit": "2025-05-09T03:36:03Z",
                 "owner": "cocos2d",
                 "repo": "cocos2d-x",
-                "stars": 19165
-              }
+                "stars": 19166
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -194,8 +205,9 @@
                 "last_commit": "2026-08-27T12:53:23Z",
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14355
-              }
+                "stars": 14358
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             }
           ],
           "description": "Unreal Engine is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.\nUnity is a cross-platform game development platform. Use Unity to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR/AR, consoles or the Web, and connect with loyal and enthusiastic players and customers.\nUnigine is a cross-platform game engine designed for development teams (C++/C# programmers, 3D artists) working on interactive 3D apps.\nPanda3D is a game engine, a framework for 3D rendering and game development for Python and C++ programs, developed by Disney and CMU. Panda3D is open-source and free for any purpose, including commercial ventures.\nSource 2 is a 3D video game engine in development by Valve as a successor to Source. It is used in Dota 2, Artifact, Dota Underlords, parts of The Lab, SteamVR Home, and Half-Life: Alyx.\nHavok is a middleware software suite that provides a realistic physics engine component and related functions to video games. It is supported and optimized across all major platforms, including Nintendo Switch, PlayStation®, Stadia, and Xbox. Along with integrations for Unity and Unreal Engine and are used in countless proprietary game engines.\nAutoDesk 3ds Max is a professional software program for 3D modeling, animation, rendering, and visualization. 3ds Max allows you to create stunning game environments, design visualizations, and virtual reality experiences.\nHoudini is a 3D procedural software for modeling, rigging, animation, VFX, look development, lighting and rendering in film, TV, advertising and video game pipelines.\nA-Frame is a web framework for building virtual reality experiences in WebVR with HTML and Entity-Component. A-Frame works on Vive, Rift, desktop, mobile platforms.\nAppGameKit is a powerful game development engine, ideal for Hobbyist and Indie developers. Where you can start coding in the easy to learn AppGameKit BASIC or use the libraries in C++ & XCode.\nAmazon Lumberyard is an open source, AAA game engine(based on CryEngine) that gives you the tools you need to create high quality games. Deeply integrated with AWS and Twitch, Amazon Lumberyard includes full source code, allowing you to customize your project at any level.\nBlender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.\nCryEngine is a powerful real-time game development platform created by Crytek.\nGameMaker Studio 2 is the latest and greatest incarnation of GameMaker. It has everything you need to take your idea from concept to finished game. With no barriers to entry and powerful functionality, GameMaker Studio 2 is the ultimate 2D development environment.\nGodot is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported in one click to a number of platforms, including the major desktop platforms (Linux, Mac OSX, Windows) as well as mobile (Android, iOS) and web-based (HTML5) platforms.\nOpen Graphics Library(OpenGL) is an API used acrossed mulitple programming languages and platforms for hardware-accelerated rendering of 2D/3D vector graphics currently developed by the Khronos Group.\nOpen Computing Language (OpenCL) is an open standard for parallel programming of heterogeneous platforms consisting of CPUs, GPUs, and other hardware accelerators found in supercomputers, cloud servers, personal computers, mobile devices and embedded platforms.\nOpenGL Shading Language(GLSL) is a High Level Shading Language based on the C-style language, so it covers most of the features a user would expect with such a language. Such as control structures (for-loops, if-else statements, etc) exist in GLSL, including the switch statement.\nHigh Level Shading Language(HLSL) is the High Level Shading Language for DirectX. Using HLSL, the user can create C-like programmable shaders for the Direct3D pipeline. HLSL was first created with DirectX 9 to set up the programmable 3D pipeline.\nVulkan is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium.\nMetal is a low-level GPU programming framework used for rendering 2D and 3D graphics on Apple platforms such as iOS, iPadOS, macOS, watchOS and tvOS.\nMoltenVK is an implementation of Vulkan running on iOS and macOS using Apple's Metal graphics framework.\nMoltenGL is an implementation of the OpenGL ES 2.0 API that runs on Apple's Metal graphics framework.\nMesa 3D Graphics Library is a project began as an open-source implementation of the OpenGL specification. A system for rendering interactive 3D graphics. Mesa ties into several other open-source projects: the Direct Rendering Infrastructure, X.org, and Wayland to provide OpenGL support on Linux, FreeBSD, and other operating systems.\nOpenGL ES is the mobile subset of OpenGL. It's supported on all major mobile platforms, and is also the base for WebGL.\nOpenCL is a framework for writing programs that execute across heterogeneous platforms consisting of CPUs, GPUs, DSPs, FPGAs and other processors or hardware accelerators.\nEGL is an interface between Khronos rendering APIs such as OpenGL or OpenVG and the underlying native platform window system.\nVDPAU is the Video Decode and Presentation API for UNIX. It provides an interface to video decode acceleration and presentation hardware present in modern GPUs.\nVA API is an open-source library and API specification, which provides access to graphics hardware acceleration capabilities for video processing.\nXvMC is an extension of the X video extension (Xv) for the X Window System. The XvMC API allows video programs to offload portions of the video decoding process to the GPU hardware.\nAMD Radeon ProRender is a powerful physically-based rendering engine that enables creative professionals to produce stunningly photorealistic images on virtually any GPU, any CPU, and any OS in over a dozen leading digital content creation and CAD applications.\nNVIDIA Omniverse is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.\nThree.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.\nSuperpowers is a downloadable HTML5 app for real-time collaborative projects . You can use it solo like a regular offline game maker, or setup a password and let friends join in on your project through their Web browser.\nURHO3D is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.\nVivox is a voice & text chat platform that's trusted by the world's biggest gaming brands and titles such as Fortnite, PUBG, League of Legends, and Rainbow Six Siege.\nHGIG is a volunteer group of companies from the game and TV display industries that meet to specify and make available for the public guidelines to improve consumer gaming experiences in HDR.\nGameBlocks is a Server Side Anti-Cheat & Middleware software.",
@@ -217,7 +229,8 @@
                 "owner": "ValveSoftware",
                 "repo": "openvr",
                 "stars": 6642
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -228,11 +241,12 @@
                 "archived": false,
                 "id": 75029407,
                 "language": "C",
-                "last_commit": "2026-08-24T20:59:17Z",
+                "last_commit": "2026-08-27T21:02:31Z",
                 "owner": "collabora",
                 "repo": "libsurvive",
                 "stars": 925
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -246,8 +260,9 @@
                 "last_commit": "2026-07-20T01:18:47Z",
                 "owner": "SimulaVR",
                 "repo": "Simula",
-                "stars": 3200
-              }
+                "stars": 3201
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             }
           ],
           "description": "ARKit is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.\nRealityKit is a framework to implement high-performance 3D simulation and rendering with information provided by the ARKit framework to seamlessly integrate virtual objects into the real world.\nSceneKit is a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your iOS apps.\nARCore is a software development kit developed by Google that allows for augmented reality applications in the real world. These tools include environmental understanding, which allows devices to detect horizontal and vertical surfaces and planes. It also includes motion tracking, which lets phones understand and track their positions relative to the world. Also ARCore’s Light Estimation API lets your digital objects appear realistically as if they’re actually part of the physical world.\nMicrosoft HoloLens Headset. Source: Microsoft\nPlayStation VR Headset. Source: PlayStation\nSteamVR is the ultimate tool for experiencing VR content on the hardware of your choice. SteamVR supports the Valve Index, HTC Vive, Oculus Rift, Windows Mixed Reality headsets, and others.\nSteamVR Home\nOpenVR Benchmark on Steam is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset.\nOpenHMD is open source API and drivers that supports a wide range of HMD(head-mounted display) devices such as Oculus Rift, HTC Vive, Sony PSVR, and others.\nopenXR is a free, open standard that provides high-performance access to Augmented Reality (AR) and Virtual Reality (VR) collectively known as XR—platforms and devices.\nMonado is the first OpenXR™ runtime for GNU/Linux. Monado aims to jump-start development of an open source XR ecosystem and provide the fundamental building blocks for device vendors to target the GNU/Linux platform.",
@@ -271,11 +286,12 @@
                 "archived": false,
                 "id": 45497910,
                 "language": "Markdown",
-                "last_commit": "2026-08-26T14:13:38Z",
+                "last_commit": "2026-08-27T18:02:57Z",
                 "owner": "swiftlang",
                 "repo": "swift-evolution",
-                "stars": 15869
-              }
+                "stars": 15870
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -286,11 +302,12 @@
                 "archived": false,
                 "id": 44838949,
                 "language": "Swift",
-                "last_commit": "2026-08-27T14:51:58Z",
+                "last_commit": "2026-08-28T16:06:50Z",
                 "owner": "swiftlang",
                 "repo": "swift",
-                "stars": 70300
-              }
+                "stars": 70306
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             }
           ],
           "description": "Swift is Apple's main programming language for iOS, macOS, watchOS, and tvOS app development. Though, many parts of Swift will be familiar to developers from their experience of developing in C and Objective-C.\nXcode + Swift makes developing applications for MacOS and iOS fast and fun.\nSwift 5.3 Basics\nStart Developing iOS Apps with Swift\nApple Developer Documentation\nApple Foundation Framework\nApple Core Animation Framework\nApple Core Graphics Framework\nVirtualization Framework\nParavirtualized Graphics Framework\nGetting Started with LLDB\nMac Catalyst - iOS - Human Interface Guidelines\nAmazon EC2 Mac Instances\nApple Developer Forums\nSwift Forums\nGoogle's Swift Style Guide\nSwift Courses Online from Coursera\nSwift Courses Online from Udemy\nLearning Swift course from Codecademy",
@@ -308,11 +325,12 @@
                 "archived": false,
                 "id": 49910095,
                 "language": "Swift",
-                "last_commit": "2026-08-27T15:10:04Z",
+                "last_commit": "2026-08-28T09:10:41Z",
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26192
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -327,7 +345,8 @@
                 "owner": "HeroTransitions",
                 "repo": "Hero",
                 "stars": 22488
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -341,8 +360,9 @@
                 "last_commit": "2026-08-25T15:09:33Z",
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24394
-              }
+                "stars": 24396
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -356,8 +376,9 @@
                 "last_commit": "2026-06-14T23:57:29Z",
                 "owner": "realm",
                 "repo": "realm-swift",
-                "stars": 16612
-              }
+                "stars": 16614
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -372,7 +393,8 @@
                 "owner": "PerfectlySoft",
                 "repo": "Perfect",
                 "stars": 13742
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -386,8 +408,9 @@
                 "last_commit": "2026-08-03T01:00:57Z",
                 "owner": "Alamofire",
                 "repo": "Alamofire",
-                "stars": 42423
-              }
+                "stars": 42426
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -402,7 +425,8 @@
                 "owner": "xmartlabs",
                 "repo": "Eureka",
                 "stars": 11803
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -416,8 +440,9 @@
                 "last_commit": "2025-09-10T15:36:04Z",
                 "owner": "Carthage",
                 "repo": "Carthage",
-                "stars": 15166
-              }
+                "stars": 15167
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -432,7 +457,8 @@
                 "owner": "ReactiveCocoa",
                 "repo": "ReactiveCocoa",
                 "stars": 19815
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             }
           ],
           "description": "Xcode includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging. Xcode 12 is built as an Universal app that runs 100% natively on Intel-based CPUs and Apple Silicon. It includes a unified macOS SDK that features all the frameworks, compilers, debuggers, and other tools you need to build apps that run natively on Apple Silicon and the Intel x86_64 CPU.\nSwiftUI is a user interface toolkit that provides views, controls, and layout structures for declaring your app's user interface. The SwiftUI framework provides event handlers for delivering taps, gestures, and other types of input to your application.\nUIKit is a framework provides the required infrastructure for your iOS or tvOS apps. It provides the window and view architecture for implementing your interface, the event handling infrastructure for delivering Multi-Touch and other types of input to your app, and the main run loop needed to manage interactions among the user, the system, and your app.\nAppKit is a graphical user interface toolkit that contains all the objects you need to implement the user interface for a macOS app such as windows, panels, buttons, menus, scrollers, and text fields, and it handles all the details for you as it efficiently draws on the screen, communicates with hardware devices and screen buffers, clears areas of the screen before drawing, and clips views.\nARKit is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.\nRealityKit is a framework to implement high-performance 3D simulation and rendering with information provided by the ARKit framework to seamlessly integrate virtual objects into the real world.\nSceneKit is a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your iOS apps.\nMac Catalyst is a set of Apple APIs that developers can use to rapidly port their iOS apps to Apple Silicon M1 Chip and take full advantage of the new capabilities on the new Apple hardware.\nInstruments is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. It’s designed to help you profile your iOS, watchOS, tvOS, and macOS apps, processes, and devices in order to better understand and optimize their behavior and performance.\nCocoapods is a dependency manager for Swift and Objective-C used in Xcode projects by specifying the dependencies for your project in a simple text file. CocoaPods then recursively resolves dependencies between libraries, fetches source code for all dependencies, and creates and maintains an Xcode workspace to build your project.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages.",
@@ -459,8 +485,9 @@
                 "last_commit": "2026-06-14T23:57:29Z",
                 "owner": "realm",
                 "repo": "realm-swift",
-                "stars": 16612
-              }
+                "stars": 16614
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -474,8 +501,9 @@
                 "last_commit": "2026-08-27T11:11:18Z",
                 "owner": "facebook",
                 "repo": "infer",
-                "stars": 15691
-              }
+                "stars": 15693
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -490,7 +518,8 @@
                 "owner": "Mantle",
                 "repo": "Mantle",
                 "stars": 11255
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -505,7 +534,8 @@
                 "owner": "Quick",
                 "repo": "Quick",
                 "stars": 9827
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -520,7 +550,8 @@
                 "owner": "steipete",
                 "repo": "Aspects",
                 "stars": 8422
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -534,8 +565,9 @@
                 "last_commit": "2026-07-08T21:13:24Z",
                 "owner": "Hammerspoon",
                 "repo": "hammerspoon",
-                "stars": 16003
-              }
+                "stars": 16012
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -550,7 +582,8 @@
                 "owner": "jverkoey",
                 "repo": "nimbus",
                 "stars": 6416
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             }
           ],
           "description": "Xcode includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging.\nAppKit is a graphical user interface toolkit that contains all the objects you need to implement the user interface for a macOS app such as windows, panels, buttons, menus, scrollers, and text fields, and it handles all the details for you as it efficiently draws on the screen, communicates with hardware devices and screen buffers, clears areas of the screen before drawing, and clips views.\nInstruments is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. It’s designed to help you profile your iOS, watchOS, tvOS, and macOS apps, processes, and devices in order to better understand and optimize their behavior and performance.\nCocoapods is a dependency manager for Swift and Objective-C in your Xcode projects by specifying the dependencies for your project in a simple text file. CocoaPods then recursively resolves dependencies between libraries, fetches source code for all dependencies, and creates and maintains an Xcode workspace to build your project.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages.",
@@ -577,8 +610,9 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45279
-              }
+                "stars": 45280
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             }
           ],
           "description": "C++ is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.\nC is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.\nEmbedded C is a set of language extensions for the C programming language by the C Standards Committee to address issues that exist between C extensions for different embedded systems. The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.\nC & C++ Developer Tools from JetBrains\nOpen source C++ libraries on cppreference.com\nC++ Graphics libraries\nC++ Libraries in MATLAB\nC++ Tools and Libraries Articles\nGoogle C++ Style Guide\nIntroduction C++ Education course on Google Developers\nC++ style guide for Fuchsia\nC and C++ Coding Style Guide by OpenTitan\nChromium C++ Style Guide\nC++ Style Guide for ROS\nLearn C++\nLearn C : An Interactive C Tutorial\nC++ Institute\nC++ Online Training Courses on LinkedIn Learning\nC++ Tutorials on W3Schools\nLearn C Programming Online Courses on edX\nLearn C++ with Online Courses on edX\nLearn C++ on Codecademy\nCoding for Everyone: C and C++ course on Coursera\nC++ For C Programmers on Coursera\nTop C Courses on Coursera\nC++ Online Courses on Udemy\nTop C Courses on Udemy\nBasics of Embedded C Programming for Beginners on Udemy\nC++ For Programmers Course on Udacity\nC++ Fundamentals Course on Pluralsight\nIntroduction to C++ on MIT Free Online Course Materials\nIntroduction to C++ for Programmers | Harvard\nOnline C Courses | Harvard University",
@@ -596,11 +630,12 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-26T19:17:53Z",
+                "last_commit": "2026-08-28T05:39:48Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27403
-              }
+                "stars": 27402
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -614,8 +649,9 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3406
-              }
+                "stars": 3405
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -630,7 +666,8 @@
                 "owner": "NVIDIA",
                 "repo": "thrust",
                 "stars": 5002
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -645,7 +682,8 @@
                 "owner": "bytedeco",
                 "repo": "javacpp",
                 "stars": 4705
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             },
             {
               "node_type": "item",
@@ -659,8 +697,9 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29530
-              }
+                "stars": 29535
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             }
           ],
           "description": "Visual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nVisual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.\nReSharper C++ is a Visual Studio Extension for C++ developers developed by JetBrains.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.\nCLion is a cross-platform IDE for C and C++ developers developed by JetBrains.\nCode::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.\nConan is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.\nHigh Performance Computing (HPC) SDK is a comprehensive toolbox for GPU accelerating HPC modeling and simulation applications. It includes the C, C++, and Fortran compilers, libraries, and analysis tools necessary for developing HPC applications on the NVIDIA platform.\nBoost is an educational opportunity focused on cutting-edge C++. Boost has been a participant in the annual Google Summer of Code since 2007, in which students develop their skills by working on Boost Library development.\nAutomake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of GNU Autoconf.\nCmake is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.\nGDB is a debugger, that allows you to see what is going on `inside' another program while it executes or what another program was doing at the moment it crashed.\nGCC is a compiler Collection that includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages.\nGSL is a numerical library for C and C++ programmers. It is free software under the GNU General Public License. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.\nOpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are supported on the target platform.\nLibtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. To use Libtool, add the new generic library building commands to your Makefile, Makefile.in, or Makefile.am.\nMaven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.\nTAU (Tuning And Analysis Utilities) is capable of gathering performance information through instrumentation of functions, methods, basic blocks, and statements as well as event-based sampling. All C++ language features are supported including templates and namespaces.\nClang is a production quality C, Objective-C, C++ and Objective-C++ compiler when targeting X86-32, X86-64, and ARM (other targets may have caveats, but are usually easy to fix). Clang is used in production to build performance-critical software like Google Chrome or Firefox.\nOpenCV is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nLibcu++ is the NVIDIA C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.\nANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.\nOat++ is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.\nCython is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.\nInfer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml.",
@@ -682,7 +721,8 @@
                 "owner": "mikeroyal",
                 "repo": "Metal-Guide",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T16:35:10.424Z"
             }
           ],
           "description": null,
@@ -694,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:11:36.033Z",
+    "last_updated": "2026-08-28T16:35:10.424Z",
     "original_repository_info": {
       "archived": false,
       "id": 396950861,
