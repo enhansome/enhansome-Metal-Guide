@@ -15,23 +15,23 @@
 
 # Table of Contents
 
-1. [Metal Learning Resources](https://github.com/mikeroyal/Metal-Guide#Metal-learning-resources) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+1. [Metal Learning Resources](https://github.com/mikeroyal/Metal-Guide#Metal-learning-resources) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
-2. [Metal Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Metal-Guide#Metal-tools-libraries-and-frameworks) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+2. [Metal Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Metal-Guide#Metal-tools-libraries-and-frameworks) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
-3. [Apple Silicon](https://github.com/mikeroyal/Metal-Guide#apple-silicon) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+3. [Apple Silicon](https://github.com/mikeroyal/Metal-Guide#apple-silicon) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
-4. [Game Development](https://github.com/mikeroyal/Metal-Guide#game-development) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+4. [Game Development](https://github.com/mikeroyal/Metal-Guide#game-development) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
-5. [Swift Development](https://github.com/mikeroyal/Metal-Guide#swift-development) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+5. [Swift Development](https://github.com/mikeroyal/Metal-Guide#swift-development) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
-6. [Objective-C Development](https://github.com/mikeroyal/Metal-Guide#objective-c-development) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+6. [Objective-C Development](https://github.com/mikeroyal/Metal-Guide#objective-c-development) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
-7. [C/C++ Development](https://github.com/mikeroyal/Metal-Guide#cc-development) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+7. [C/C++ Development](https://github.com/mikeroyal/Metal-Guide#cc-development) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
 # Awesome Metal Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
 [Metal](https://developer.apple.com/metal/) is a low-level API that provides a platform-optimized, low-overhead API for developing the latest 3D pro applications and amazing games using a rich shading language with tighter integration between graphics and compute programs. To help you do more while managing ever more complex shader code, Metal adds an unparalleled suite of advanced GPU debugging tools to help you realize the full potential of your graphics code.
 
@@ -61,7 +61,7 @@
 
 # Metal Tools, Libraries, and Frameworks
 
-[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
 [Apple Foundation Framework](https://developer.apple.com/documentation/foundation) is a framework provides a base layer of functionality for apps and frameworks, including data storage and persistence, text processing, date and time calculations, sorting and filtering, and networking. The classes, protocols, and data types defined by Foundation are used throughout the macOS, iOS, and tvOS SDKs.
 
@@ -95,7 +95,7 @@
 
 # Apple Silicon
 
-[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/105645197-de010180-5e4e-11eb-823b-c2152b3223ef.jpeg">
@@ -145,7 +145,7 @@
 
 # Game Development
 
-[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
@@ -261,7 +261,7 @@
 
 [High Level Shading Language(HLSL)](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl) is the High Level Shading Language for DirectX. Using HLSL, the user can create C-like programmable shaders for the Direct3D pipeline. HLSL was first created with DirectX 9 to set up the programmable 3D pipeline.
 
-[DirectX 12 Ultimate](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,829 | 🐛 112 | 🌐 C++ | 📅 2026-08-14 is an API(for high performance 2D & 3D graphics) from Microsoft. DirectX 12 Ultimate brings support for ray tracing, mesh shaders, variable rate shading, and sampler feedback. Available in Windows 2004 version(May 2020 Update).
+[DirectX 12 Ultimate](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,830 | 🐛 112 | 🌐 C++ | 📅 2026-08-14 is an API(for high performance 2D & 3D graphics) from Microsoft. DirectX 12 Ultimate brings support for ray tracing, mesh shaders, variable rate shading, and sampler feedback. Available in Windows 2004 version(May 2020 Update).
 
 [Vulkan](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium.
 
@@ -289,11 +289,11 @@
 
 [NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
 
-[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,375 | 🐛 338 | 🌐 Java | 📅 2026-09-04 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
+[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,377 | 🐛 338 | 🌐 Java | 📅 2026-09-04 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
 
-[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,176 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
+[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,177 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
 
-[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,400 | 🐛 764 | 🌐 C# | 📅 2026-09-05 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
+[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,402 | 🐛 764 | 🌐 C# | 📅 2026-09-05 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
 
 [Three.js](https://threejs.org) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 
@@ -359,11 +359,11 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Libsurvive](https://github.com/cntools/libsurvive) ⭐ 928 | 🐛 60 | 🌐 C | 📅 2026-08-27 is a set of tools and libraries that enable 6 dof tracking on lighthouse and vive based systems that is completely open source and can run on any device. It currently supports both SteamVR 1.0 and SteamVR 2.0 generation of devices and should support any tracked object commercially available.
 
-[Simula](https://github.com/SimulaVR/Simula) ⭐ 3,201 | 🐛 72 | 🌐 Haskell | 📅 2026-07-20 is a VR window manager for Linux that runs on top of Godot. It takes less than 1 minute to install. Simula is officially compatible with SteamVR headsets equipped with Linux drivers (e.g. HTC Vive, HTC Vive Pro, & Valve Index). We have also added experimental support to OpenXR headsets that have Monado drivers (e.g. North Star, OSVR HDK, and PSVR). Some people have gotten the Oculus Rift S to run Simula via OpenHMD ([see here](https://github.com/OpenHMD/OpenHMD/issues/225#issuecomment-638454156) ⭐ 1,284 | 🐛 85 | 🌐 C | 📅 2025-04-23).
+[Simula](https://github.com/SimulaVR/Simula) ⭐ 3,203 | 🐛 72 | 🌐 Haskell | 📅 2026-07-20 is a VR window manager for Linux that runs on top of Godot. It takes less than 1 minute to install. Simula is officially compatible with SteamVR headsets equipped with Linux drivers (e.g. HTC Vive, HTC Vive Pro, & Valve Index). We have also added experimental support to OpenXR headsets that have Monado drivers (e.g. North Star, OSVR HDK, and PSVR). Some people have gotten the Oculus Rift S to run Simula via OpenHMD ([see here](https://github.com/OpenHMD/OpenHMD/issues/225#issuecomment-638454156) ⭐ 1,284 | 🐛 85 | 🌐 C | 📅 2025-04-23).
 
 # Swift Development
 
-[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719675-03949c00-fb39-11ea-8f81-bf4cd544c17f.png">
@@ -379,7 +379,7 @@ Developing with SwiftUI in Xcode 12
 
 [Swift](https://developer.apple.com/swift/) is Apple's main programming language for iOS, macOS, watchOS, and tvOS app development. Though, many parts of Swift will be familiar to developers from their experience of developing in C and Objective-C.
 
-[Swift Evolution](https://github.com/apple/swift-evolution) ⭐ 15,869 | 🐛 90 | 🌐 Markdown | 📅 2026-09-07 maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+[Swift Evolution](https://github.com/apple/swift-evolution) ⭐ 15,870 | 🐛 91 | 🌐 Markdown | 📅 2026-09-07 maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 [Xcode + Swift](https://developer.apple.com/swift/resources/) makes developing applications for MacOS and iOS fast and fun.
 
@@ -405,7 +405,7 @@ Developing with SwiftUI in Xcode 12
 
 [Amazon EC2 Mac Instances](https://aws.amazon.com/ec2/instance-types/mac/)
 
-[Swift GitHub](https://github.com/apple/swift) ⭐ 70,331 | 🐛 9,266 | 🌐 Swift | 📅 2026-09-07
+[Swift GitHub](https://github.com/apple/swift) ⭐ 70,334 | 🐛 9,292 | 🌐 Swift | 📅 2026-09-08
 
 [Apple Developer Forums](https://developer.apple.com/forums/)
 
@@ -443,27 +443,27 @@ Developing with SwiftUI in Xcode 12
 
 [AppCode](https://www.jetbrains.com/objc/) is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages.
 
-[Vapor](https://github.com/vapor/vapor) ⭐ 26,193 | 🐛 106 | 🌐 Swift | 📅 2026-09-05 is a web framework for Swift. It provides a beautifully expressive and easy to use foundation for your next website, API, or cloud project.
+[Vapor](https://github.com/vapor/vapor) ⭐ 26,192 | 🐛 106 | 🌐 Swift | 📅 2026-09-07 is a web framework for Swift. It provides a beautifully expressive and easy to use foundation for your next website, API, or cloud project.
 
 [Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,487 | 🐛 42 | 🌐 Swift | 📅 2025-01-23 is a library for building iOS view controller transitions. It provides a declarative layer on top of the UIKit's cumbersome transition APIs—making custom transitions an easy task for developers.
 
-[Kingfisher](https://github.com/onevcat/Kingfisher) ⭐ 24,388 | 🐛 169 | 🌐 Swift | 📅 2026-09-06 is a powerful, pure-Swift library for downloading and caching images from the web. It provides you a chance to use a pure-Swift way to work with remote images in your next app.
+[Kingfisher](https://github.com/onevcat/Kingfisher) ⭐ 24,389 | 🐛 169 | 🌐 Swift | 📅 2026-09-06 is a powerful, pure-Swift library for downloading and caching images from the web. It provides you a chance to use a pure-Swift way to work with remote images in your next app.
 
-[Realm](https://github.com/realm/realm-cocoa) ⭐ 16,613 | 🐛 498 | 🌐 Objective-C | 📅 2026-06-14 is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the iOS, macOS, tvOS & watchOS versions of Realm Swift & Realm Objective-C.
+[Realm](https://github.com/realm/realm-cocoa) ⭐ 16,612 | 🐛 498 | 🌐 Objective-C | 📅 2026-06-14 is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the iOS, macOS, tvOS & watchOS versions of Realm Swift & Realm Objective-C.
 
-[Perfect](https://github.com/PerfectlySoft/Perfect) ⭐ 13,741 | 🐛 65 | 🌐 Swift | 📅 2024-02-03 is a complete and powerful toolbox, framework, and application server for Linux, iOS, and macOS (OS X). It provides everything a Swift engineer needs for developing lightweight, maintainable, and scalable apps and other REST services entirely in the Swift programming language for both client-facing and server-side applications.
+[Perfect](https://github.com/PerfectlySoft/Perfect) ⭐ 13,740 | 🐛 65 | 🌐 Swift | 📅 2024-02-03 is a complete and powerful toolbox, framework, and application server for Linux, iOS, and macOS (OS X). It provides everything a Swift engineer needs for developing lightweight, maintainable, and scalable apps and other REST services entirely in the Swift programming language for both client-facing and server-side applications.
 
-[Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,424 | 🐛 44 | 🌐 Swift | 📅 2026-08-31 is an HTTP networking library written in Swift.
+[Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,423 | 🐛 43 | 🌐 Swift | 📅 2026-09-08 is an HTTP networking library written in Swift.
 
-[Eureka](https://github.com/xmartlabs/Eureka) ⭐ 11,801 | 🐛 179 | 🌐 Swift | 📅 2024-09-12 is an elegant iOS form builder in Swift
+[Eureka](https://github.com/xmartlabs/Eureka) ⭐ 11,802 | 🐛 179 | 🌐 Swift | 📅 2024-09-12 is an elegant iOS form builder in Swift
 
-[Carthage](https://github.com/Carthage/Carthage) ⭐ 15,166 | 🐛 217 | 🌐 Swift | 📅 2025-09-10 is intended to be the simplest way to add frameworks to your Cocoa application. Carthage builds your dependencies and provides you with binary frameworks, but you retain full control over your project structure and setup. Carthage does not automatically modify your project files or your build settings.
+[Carthage](https://github.com/Carthage/Carthage) ⭐ 15,164 | 🐛 217 | 🌐 Swift | 📅 2025-09-10 is intended to be the simplest way to add frameworks to your Cocoa application. Carthage builds your dependencies and provides you with binary frameworks, but you retain full control over your project structure and setup. Carthage does not automatically modify your project files or your build settings.
 
-[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) ⭐ 19,809 | 🐛 12 | 🌐 Swift | 📅 2025-09-12 is reactive extensions to Cocoa frameworks, built on top of ReactiveSwift.
+[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) ⭐ 19,808 | 🐛 12 | 🌐 Swift | 📅 2025-09-12 is reactive extensions to Cocoa frameworks, built on top of ReactiveSwift.
 
 # Objective-C Development
 
-[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/121821278-e6ff3d80-cc4c-11eb-9a57-c7aa13b88b30.png">
@@ -499,23 +499,23 @@ Developing with SwiftUI in Xcode 12
 
 [AppCode](https://www.jetbrains.com/objc/) is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages.
 
-[Realm](https://github.com/realm/realm-cocoa) ⭐ 16,613 | 🐛 498 | 🌐 Objective-C | 📅 2026-06-14 is a mobile database(replaces Core Data & SQLite) that runs directly inside phones, tablets or wearables.
+[Realm](https://github.com/realm/realm-cocoa) ⭐ 16,612 | 🐛 498 | 🌐 Objective-C | 📅 2026-06-14 is a mobile database(replaces Core Data & SQLite) that runs directly inside phones, tablets or wearables.
 
-[Infer](https://github.com/facebook/infer) ⭐ 15,704 | 🐛 204 | 🌐 OCaml | 📅 2026-09-03 is a static analysis tool for Java, C++, Objective-C, and C.
+[Infer](https://github.com/facebook/infer) ⭐ 15,706 | 🐛 203 | 🌐 OCaml | 📅 2026-09-03 is a static analysis tool for Java, C++, Objective-C, and C.
 
-[Mantle](https://github.com/Mantle/Mantle) ⭐ 11,252 | 🐛 0 | 🌐 Objective-C | 📅 2022-10-18 is a model framework that makes it easy to write a simple model layer for your Cocoa or Cocoa Touch application.
+[Mantle](https://github.com/Mantle/Mantle) ⭐ 11,251 | 🐛 0 | 🌐 Objective-C | 📅 2022-10-18 is a model framework that makes it easy to write a simple model layer for your Cocoa or Cocoa Touch application.
 
-[Quick](https://github.com/Quick/Quick) ⭐ 9,826 | 🐛 49 | 🌐 Swift | 📅 2026-05-18 is a behavior-driven development framework for Swift and Objective-C.
+[Quick](https://github.com/Quick/Quick) ⭐ 9,825 | 🐛 49 | 🌐 Swift | 📅 2026-05-18 is a behavior-driven development framework for Swift and Objective-C.
 
 [Aspects](https://github.com/steipete/Aspects) ⚠️ Archived is a simple library for aspect oriented programming in Objective-C and Swift.
 
-[Hammerspoon](https://github.com/Hammerspoon/hammerspoon) ⭐ 16,063 | 🐛 690 | 🌐 Objective-C | 📅 2026-07-08 is a tool for powerful automation for macOS that acts as a bridge between the operating system and a Lua scripting engine.
+[Hammerspoon](https://github.com/Hammerspoon/hammerspoon) ⭐ 16,068 | 🐛 690 | 🌐 Objective-C | 📅 2026-07-08 is a tool for powerful automation for macOS that acts as a bridge between the operating system and a Lua scripting engine.
 
 [Nimbus](https://github.com/jverkoey/nimbus) ⚠️ Archived is an iOS framework whose feature set grows only as fast as its documentation.
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -550,7 +550,7 @@ Developing with SwiftUI in Xcode 12
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,310 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,306 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -598,7 +598,7 @@ Developing with SwiftUI in Xcode 12
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,442 | 🐛 1,183 | 🌐 CMake | 📅 2026-09-04 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,451 | 🐛 1,214 | 🌐 CMake | 📅 2026-09-04 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -650,20 +650,20 @@ Developing with SwiftUI in Xcode 12
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,580 | 🐛 47 | 🌐 C++ | 📅 2026-09-05 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,586 | 🐛 47 | 🌐 C++ | 📅 2026-09-05 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Metal-Guide/pulls) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Metal-Guide/pulls) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23.
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 193 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents) ⭐ 194 | 🐛 0 | 🌐 Swift | 📅 2023-09-23
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
