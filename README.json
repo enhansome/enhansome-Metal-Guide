@@ -297,8 +297,8 @@
                 "id": 44838949,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:55:42Z",
-                "open_issues": 9421,
+                "last_commit": "2026-10-06T11:05:10Z",
+                "open_issues": 9422,
                 "owner": "swiftlang",
                 "repo": "swift",
                 "stars": 70480,
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:00:15.678Z",
+    "last_updated": "2026-10-06T11:13:13.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "Metal Guide",
