@@ -19,7 +19,7 @@
             "open_issues": 216,
             "owner": "apple",
             "repo": "tensorflow_macos",
-            "stars": 3642,
+            "stars": 3643,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:10.424Z"
@@ -48,7 +48,7 @@
                 "open_issues": 110,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6846,
+                "stars": 6847,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:10.424Z"
@@ -65,11 +65,11 @@
                 "id": 5373551,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T09:57:58Z",
-                "open_issues": 343,
+                "last_commit": "2026-10-14T07:39:51Z",
+                "open_issues": 342,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25481,
+                "stars": 25482,
                 "topics": [
                   "2d",
                   "3d",
@@ -107,7 +107,7 @@
                 "open_issues": 1604,
                 "owner": "cocos2d",
                 "repo": "cocos2d-x",
-                "stars": 19215,
+                "stars": 19218,
                 "topics": [
                   "android",
                   "c-plus-plus",
@@ -138,10 +138,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-11T15:21:59Z",
-                "open_issues": 765,
+                "open_issues": 766,
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14512,
+                "stars": 14517,
                 "topics": [
                   "3d",
                   "c-sharp",
@@ -211,7 +211,7 @@
                 "open_issues": 65,
                 "owner": "collabora",
                 "repo": "libsurvive",
-                "stars": 940,
+                "stars": 941,
                 "topics": [
                   "hmd",
                   "htc-vive",
@@ -246,7 +246,7 @@
                 "open_issues": 73,
                 "owner": "SimulaVR",
                 "repo": "Simula",
-                "stars": 3207,
+                "stars": 3208,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:10.424Z"
@@ -276,11 +276,11 @@
                 "id": 45497910,
                 "language": "Markdown",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T01:18:01Z",
-                "open_issues": 93,
+                "last_commit": "2026-10-14T01:15:33Z",
+                "open_issues": 95,
                 "owner": "swiftlang",
                 "repo": "swift-evolution",
-                "stars": 15883,
+                "stars": 15885,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:10.424Z"
@@ -297,11 +297,11 @@
                 "id": 44838949,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T10:11:04Z",
-                "open_issues": 9445,
+                "last_commit": "2026-10-14T08:21:10Z",
+                "open_issues": 9440,
                 "owner": "swiftlang",
                 "repo": "swift",
-                "stars": 70499,
+                "stars": 70503,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:10.424Z"
@@ -325,8 +325,8 @@
                 "id": 49910095,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-13T11:14:01Z",
-                "open_issues": 87,
+                "last_commit": "2026-10-13T11:49:30Z",
+                "open_issues": 85,
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26225,
@@ -359,7 +359,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22487,
+                "stars": 22489,
                 "topics": [
                   "animation",
                   "animations",
@@ -398,7 +398,7 @@
                 "open_issues": 163,
                 "owner": "onevcat",
                 "repo": "Kingfisher",
-                "stars": 24403,
+                "stars": 24402,
                 "topics": [
                   "cache",
                   "filters",
@@ -488,7 +488,7 @@
                 "open_issues": 44,
                 "owner": "Alamofire",
                 "repo": "Alamofire",
-                "stars": 42393,
+                "stars": 42394,
                 "topics": [
                   "alamofire",
                   "carthage",
@@ -525,7 +525,7 @@
                 "open_issues": 179,
                 "owner": "xmartlabs",
                 "repo": "Eureka",
-                "stars": 11800,
+                "stars": 11801,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -584,7 +584,7 @@
                 "open_issues": 12,
                 "owner": "ReactiveCocoa",
                 "repo": "ReactiveCocoa",
-                "stars": 19792,
+                "stars": 19791,
                 "topics": [
                   "reactivecocoa",
                   "reactiveswift",
@@ -649,11 +649,11 @@
                 "id": 29857799,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-10-13T09:50:51Z",
-                "open_issues": 264,
+                "last_commit": "2026-10-14T08:55:01Z",
+                "open_issues": 265,
                 "owner": "facebook",
                 "repo": "infer",
-                "stars": 15719,
+                "stars": 15722,
                 "topics": [
                   "c",
                   "code-quality",
@@ -707,7 +707,7 @@
                 "open_issues": 49,
                 "owner": "Quick",
                 "repo": "Quick",
-                "stars": 9820,
+                "stars": 9821,
                 "topics": [
                   "bdd",
                   "carthage",
@@ -763,7 +763,7 @@
                 "open_issues": 699,
                 "owner": "Hammerspoon",
                 "repo": "hammerspoon",
-                "stars": 16268,
+                "stars": 16276,
                 "topics": [
                   "automation",
                   "hammerspoon",
@@ -793,7 +793,7 @@
                 "open_issues": 3,
                 "owner": "jverkoey",
                 "repo": "nimbus",
-                "stars": 6405,
+                "stars": 6403,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -832,7 +832,7 @@
                 "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45378,
+                "stars": 45381,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:10.424Z"
@@ -856,11 +856,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-12T22:51:48Z",
-                "open_issues": 1106,
+                "last_commit": "2026-10-14T06:31:06Z",
+                "open_issues": 1104,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27519,
+                "stars": 27518,
                 "topics": [
                   "c",
                   "cmake",
@@ -892,7 +892,7 @@
                 "open_issues": 346,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3401,
+                "stars": 3402,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -998,10 +998,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-12T18:28:19Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29682,
+                "stars": 29689,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:42:18.881Z",
+    "last_updated": "2026-10-14T09:28:08.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "Metal Guide",
