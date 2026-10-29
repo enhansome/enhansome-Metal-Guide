@@ -44,11 +44,11 @@
                 "id": 36831874,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-28T05:55:33Z",
-                "open_issues": 112,
+                "last_commit": "2026-10-28T19:05:33Z",
+                "open_issues": 111,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6854,
+                "stars": 6856,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:10.424Z"
@@ -69,7 +69,7 @@
                 "open_issues": 341,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25484,
+                "stars": 25488,
                 "topics": [
                   "2d",
                   "3d",
@@ -107,7 +107,7 @@
                 "open_issues": 1604,
                 "owner": "cocos2d",
                 "repo": "cocos2d-x",
-                "stars": 19242,
+                "stars": 19240,
                 "topics": [
                   "android",
                   "c-plus-plus",
@@ -138,10 +138,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T11:10:18Z",
-                "open_issues": 778,
+                "open_issues": 779,
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14579,
+                "stars": 14584,
                 "topics": [
                   "3d",
                   "c-sharp",
@@ -183,7 +183,7 @@
                 "open_issues": 1051,
                 "owner": "ValveSoftware",
                 "repo": "openvr",
-                "stars": 6687,
+                "stars": 6688,
                 "topics": [
                   "hardware",
                   "openvr-sdk",
@@ -211,7 +211,7 @@
                 "open_issues": 65,
                 "owner": "collabora",
                 "repo": "libsurvive",
-                "stars": 943,
+                "stars": 944,
                 "topics": [
                   "hmd",
                   "htc-vive",
@@ -277,7 +277,7 @@
                 "language": "Markdown",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T10:11:34Z",
-                "open_issues": 92,
+                "open_issues": 94,
                 "owner": "swiftlang",
                 "repo": "swift-evolution",
                 "stars": 15881,
@@ -297,11 +297,11 @@
                 "id": 44838949,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T09:56:42Z",
+                "last_commit": "2026-10-29T09:31:12Z",
                 "open_issues": 9512,
                 "owner": "swiftlang",
                 "repo": "swift",
-                "stars": 70521,
+                "stars": 70524,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:10.424Z"
@@ -326,7 +326,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-27T15:26:55Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26242,
@@ -451,16 +451,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Legacy Perfect - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)",
+                "description": "Server-side Swift: a map to Perfect's Swift 6 packages: HTTP server, databases, sessions, sign-in, email, FileMaker and more. PerfectLib is on the legacy branch.",
                 "homepage": "https://www.perfect.org",
                 "id": 43568832,
-                "language": "Swift",
+                "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2024-02-03T15:38:39Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-28T11:58:47Z",
+                "open_issues": 54,
                 "owner": "PerfectlySoft",
                 "repo": "Perfect",
-                "stars": 13726,
+                "stars": 13724,
                 "topics": [
                   "perfect",
                   "server-side-swift",
@@ -488,7 +488,7 @@
                 "open_issues": 45,
                 "owner": "Alamofire",
                 "repo": "Alamofire",
-                "stars": 42393,
+                "stars": 42394,
                 "topics": [
                   "alamofire",
                   "carthage",
@@ -558,7 +558,7 @@
                 "open_issues": 219,
                 "owner": "Carthage",
                 "repo": "Carthage",
-                "stars": 15143,
+                "stars": 15141,
                 "topics": [
                   "carthage",
                   "cocoa",
@@ -649,11 +649,11 @@
                 "id": 29857799,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-10-27T11:57:22Z",
-                "open_issues": 266,
-                "owner": "facebook",
+                "last_commit": "2026-10-28T13:20:01Z",
+                "open_issues": 265,
+                "owner": "meta",
                 "repo": "infer",
-                "stars": 15735,
+                "stars": 15734,
                 "topics": [
                   "c",
                   "code-quality",
@@ -707,7 +707,7 @@
                 "open_issues": 49,
                 "owner": "Quick",
                 "repo": "Quick",
-                "stars": 9821,
+                "stars": 9820,
                 "topics": [
                   "bdd",
                   "carthage",
@@ -760,10 +760,10 @@
                 "language": "Objective-C",
                 "license": "MIT",
                 "last_commit": "2026-07-08T21:13:24Z",
-                "open_issues": 705,
+                "open_issues": 706,
                 "owner": "Hammerspoon",
                 "repo": "hammerspoon",
-                "stars": 16335,
+                "stars": 16342,
                 "topics": [
                   "automation",
                   "hammerspoon",
@@ -832,7 +832,7 @@
                 "open_issues": 249,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45391,
+                "stars": 45393,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:10.424Z"
@@ -856,11 +856,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-28T06:38:28Z",
-                "open_issues": 1082,
+                "last_commit": "2026-10-29T05:33:18Z",
+                "open_issues": 1080,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27548,
+                "stars": 27552,
                 "topics": [
                   "c",
                   "cmake",
@@ -892,7 +892,7 @@
                 "open_issues": 347,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3405,
+                "stars": 3406,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -933,7 +933,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 4996,
+                "stars": 4995,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1001,7 +1001,7 @@
                 "open_issues": 53,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29714,
+                "stars": 29718,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:31:15.983Z",
+    "last_updated": "2026-10-29T10:50:52.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "Metal Guide",
